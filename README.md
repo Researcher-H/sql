@@ -39,4 +39,5 @@
 > - Teradata
 > - Microsoft Azure SQL Database
 > - Apache Hive (free software; specialized for data warehouses).[23]
+> 
 > According to research company Gartner, in 2011, the five leading proprietary software relational database vendors by revenue were Oracle (48.8%), IBM (20.2%), Microsoft (17.0%), SAP including Sybase (4.6%), and Teradata (3.7%).[24]
