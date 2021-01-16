@@ -8,7 +8,7 @@
 
 - [Programming Foundations: Databases](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-databases-2%3Ftrk%3Dshare_ent_url%26shareId%3D3bb8dcd6-8265-41a5-ae3a-f13087009695&account=35392996)
 
-### 先週からやる予定のコース
+### 新たにやる予定のコース
 
 - Beginner ★
   - [SQL Essential Training](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Df0a5f1ec-8ecf-408c-a54d-8fd646704268&account=35392996)
