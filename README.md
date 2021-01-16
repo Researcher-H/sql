@@ -29,14 +29,14 @@
 > Market share
 > According to DB-Engines, in January 2021, the most widely used systems were:
 > - Oracle
-> MySQL (free software)
-> Microsoft SQL Server
-> PostgreSQL (Open Source, a continuation development after INGRES)
-> IBM DB2
-SQLite (free software)
-> Microsoft Access
-> MariaDB (free software)
-> Teradata
-> Microsoft Azure SQL Database
-> Apache Hive (free software; specialized for data warehouses).[23]
+> - MySQL (free software)
+> - Microsoft SQL Server
+> - PostgreSQL (Open Source, a continuation development after INGRES)
+> - IBM DB2
+> - SQLite (free software)
+> - Microsoft Access
+> - MariaDB (free software)
+> - Teradata
+> - Microsoft Azure SQL Database
+> - Apache Hive (free software; specialized for data warehouses).[23]
 > According to research company Gartner, in 2011, the five leading proprietary software relational database vendors by revenue were Oracle (48.8%), IBM (20.2%), Microsoft (17.0%), SAP including Sybase (4.6%), and Teradata (3.7%).[24]
