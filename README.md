@@ -1,7 +1,5 @@
 # SQL
 
----
-
 ### LinkedIn Learning
 
 `SQL` で検索した時に 145 hits
