@@ -17,10 +17,11 @@
   - [SQL: Data Reporting and Analysis](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-data-reporting-and-analysis-2%3Ftrk%3Dshare_ent_url%26shareId%3Db0887113-364b-4bd1-8bda-d07d57937214&account=35392996)
   - [SQL Tips, Tricks, & Techniques](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-tips-tricks-techniques%3Ftrk%3Dshare_ent_url%26shareId%3D375924ad-aedf-425c-b810-06e45d429a12&account=35392996)
 - Advanced ★★★
-  - [Advanced SQL for Data Scientists](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-for-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Db75b885f-2565-4e8b-8565-9252903b7526&account=35392996)
   - [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-for-query-tuning-and-performance-optimization%3Ftrk%3Dshare_ent_url%26shareId%3Dc8d5006a-b1ea-49e9-9ef3-583f6f3d8bff&account=35392996)
   - [Advanced SQL: Logical Query Processing, Part 1](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-logical-query-processing-part-1%3Ftrk%3Dshare_ent_url%26shareId%3D3a836213-2a61-47a3-961c-31b53983c53c&account=35392996)
   - [Advanced SQL: Logical Query Processing, Part 2](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-logical-query-processing-part-2%3Ftrk%3Dshare_ent_url%26shareId%3D13843fd1-8493-49a3-846a-8adb53283982&account=35392996)
-
+- Data Science
+  - [Advanced SQL for Data Science: Time Series](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-for-data-science-time-series%3Ftrk%3Dshare_ent_url%26shareId%3D7379a9d5-32f2-4cfc-9aa0-f7447e4fdea6&account=35392996)
+  - [Advanced SQL for Data Scientists](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-for-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Db75b885f-2565-4e8b-8565-9252903b7526&account=35392996)
 
 
