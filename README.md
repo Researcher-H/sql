@@ -24,7 +24,7 @@
   - [Advanced SQL for Data Science: Time Series](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-for-data-science-time-series%3Ftrk%3Dshare_ent_url%26shareId%3D7379a9d5-32f2-4cfc-9aa0-f7447e4fdea6&account=35392996)
   - [Advanced SQL for Data Scientists](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-sql-for-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Db75b885f-2565-4e8b-8565-9252903b7526&account=35392996)
 
-## [Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+## [RDB - Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
 
 > Market share
 > According to DB-Engines, in January 2021, the most widely used systems were:
