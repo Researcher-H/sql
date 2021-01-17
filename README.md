@@ -9,6 +9,10 @@
 ### 完了したコース
 
 - [Programming Foundations: Databases](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-databases-2%3Ftrk%3Dshare_ent_url%26shareId%3D3bb8dcd6-8265-41a5-ae3a-f13087009695&account=35392996)
+- [MySQL Essential Training](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmysql-essential-training-2%3Ftrk%3Dshare_ent_url%26shareId%3D8719934f-45c6-4004-b81b-8e00aec6236a&account=35392996)
+- [MySQL Advanced Topics](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmysql-advanced-topics%3Ftrk%3Dshare_ent_url%26shareId%3D6b8e0a9a-f50d-48a5-9448-b84eb6d5affe&account=35392996)
+- [MySQL Installation and Configuration](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmysql-installation-and-configuration%3Ftrk%3Dshare_ent_url%26shareId%3D2cb1d9e5-ae02-492a-9a4e-416bbafafa1d&account=35392996)
+- [Programming Foundations: Databases](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-databases-2%3Ftrk%3Dshare_ent_url%26shareId%3D4604bb7f-6825-4219-83c6-9e7c4ac6d8e7&account=35392996)
 
 ### 新たにやる予定のコース
 
