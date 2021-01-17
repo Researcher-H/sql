@@ -41,7 +41,7 @@
 > - Microsoft SQL Server
 > - PostgreSQL (Open Source, a continuation development after INGRES)
 > - IBM DB2
-> - SQLite (free software)
+> - **SQLite (free software)**
 > - Microsoft Access
 > - MariaDB (free software)
 > - Teradata
