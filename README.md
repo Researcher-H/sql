@@ -37,11 +37,11 @@
 > Market share
 > According to DB-Engines, in January 2021, the most widely used systems were:
 > - Oracle
-> - **MySQL (free software)**
+> - **MySQL (free software)** **
 > - Microsoft SQL Server
 > - PostgreSQL (Open Source, a continuation development after INGRES)
 > - IBM DB2
-> - **SQLite (free software)**
+> - **SQLite (free software)** **
 > - Microsoft Access
 > - MariaDB (free software)
 > - Teradata
